@@ -1,0 +1,23 @@
+{
+  "name": "yt_tuttorials",
+  "version": "1.0.0",
+  "description": "een bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yt, bot"
+  },
+  "author": "Nils",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fortnite": "^4.3.2",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.1",
+    "superagent": "^5.1.1"
+  }
+}
